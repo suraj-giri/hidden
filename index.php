@@ -7,12 +7,12 @@
     <div class="container-fluid remove-vid-marg">
       <div class="vid-parent">
         <video playsinline autoplay muted loop>
-          <source src="video/vid.mp4" />
+          <source src="video/banvid.mp4" />
         </video>
         <div class="vid-overlay"></div>
       </div>
       <div class="vid-content" >
-        <h1 class="my-content">Welcome to StudyPoint</h1>
+        <h1 class="my-content">Welcome to StudyHub</h1>
         <small class="my-content">Learn and Implement</small><br />
         <?php    
               if(!isset($_SESSION['is_login'])){
@@ -169,7 +169,7 @@
           </div>
           <div class="col-sm">
             <h5>Contact Us</h5>
-            <p>StudyPoint Pvt Ltd <br> Agra<br> Uttar Pradesh, India <br> Ph. 000000000 </p>
+            <p>StudyHub Pvt Ltd <br> Bihar<br>  India <br> Ph. 000000000 </p>
           </div>
         </div>
       </div>

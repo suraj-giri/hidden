@@ -13,12 +13,12 @@
         </div> <!-- End Contact Us 1st Column-->
 
         <div class="col-md-4 stripe text-white text-center">  <!-- Start Contact Us 2nd Column-->
-          <h4>StudyPoint</h4>
-          <p>StudyPoint, 
-          Agra, 282001, 
-          Uttar Pradesh - India<br /> 
+          <h4>StudyHub</h4>
+          <p>StudyHub, 
+          Bihar, 841402, 
+          Bihar- India<br /> 
           Phone: +00000000 <br />
-          www.studypoint.com </p>
+          www.studyHub.com </p>
         </div> <!-- End Contact Us 2nd Column-->
       </div> <!-- End Contact Us Row-->
     </div> <!-- End Contact Us Container-->

@@ -21,12 +21,12 @@
 
     <!-- Custom Style CSS -->
     <link rel="stylesheet" type="text/css" href="./css/style.css" />
-    <title>StudyPoint</title>
+    <title>StudyHub</title>
   </head>
   <body>
      <!-- Start Nagigation -->
     <nav class="navbar navbar-expand-sm navbar-dark pl-5 fixed-top">
-      <a href="index.php" class="navbar-brand">StudyPoint</a>
+      <a href="index.php" class="navbar-brand">StudyHub</a>
       <span class="navbar-text">Learn and Implement</span>
       <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#myMenu">
         <span class="navbar-toggler-icon"></span>

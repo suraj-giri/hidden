@@ -1,6 +1,6 @@
  <!-- Start Footer -->
  <footer class="container-fluid bg-dark text-center p-2">
-    <small class="text-white">Founder :- Harsh Jain || Designed By Harsh Jain || <?php   
+    <small class="text-white">Founder :- khushbu kumari || Designed By khushbu kumari || <?php   
           if (isset($_SESSION['is_admin_login'])){
             echo '<a href="admin/adminDashboard.php"> Admin Dashboard</a> <a href="logout.php">Logout</a>';
           }else {
